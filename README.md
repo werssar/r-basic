@@ -22,5 +22,5 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 7. Estadística descriptiva con datos ordinales
 8. Estadística descriptiva con datos cuantitativos
 9. Estadística descriptiva con datos cualitativos agrupados
-10. Introducción a la regresión lineal
-11. Introducción a distribuciones de probabilidad
+10. *Introducción a la regresión lineal*
+11. **Introducción a distribuciones de probabilidad**
